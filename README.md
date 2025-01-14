@@ -11,3 +11,4 @@
 - [Neo Tree](https://github.com/nvim-neo-tree/neo-tree.nvim) | File Explorer
 - [None LS](https://github.com/nvimtools/none-ls.nvim) | Code Actions
 - [Tmux Navigation](https://github.com/alexghergh/nvim-tmux-navigation) | Tmux Navigation
+- [Swagger Preview](https://github.com/vinnymeller/swagger-preview.nvim) | Swagger Preview
