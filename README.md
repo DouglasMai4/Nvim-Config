@@ -18,3 +18,4 @@
 - [Codeium](https://github.com/Exafunction/codeium.nvim) | AI Copilot
 - [Nvim Autopairs](https://github.com/windwp/nvim-autopairs) | Auto close brackets
 - [Lualine](https://github.com/nvim-lualine/lualine.nvim) | Status line for neovim
+- [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) | Indention lines
