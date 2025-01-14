@@ -15,3 +15,4 @@
 - [Telescope](https://github.com/nvim-telescope/telescope-ui-select.nvim) | File search and live grep
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) | Code highlights
 - [Vim Test](https://github.com/vim-test/vim-test) | Code tests integration
+- [Codeium](https://github.com/Exafunction/codeium.nvim) | AI Copilot
