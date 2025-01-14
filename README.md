@@ -12,3 +12,4 @@
 - [None LS](https://github.com/nvimtools/none-ls.nvim) | Code Actions
 - [Tmux Navigation](https://github.com/alexghergh/nvim-tmux-navigation) | Tmux Navigation
 - [Swagger Preview](https://github.com/vinnymeller/swagger-preview.nvim) | Swagger Preview
+- [Telescope](https://github.com/nvim-telescope/telescope-ui-select.nvim) | File search and live grep
