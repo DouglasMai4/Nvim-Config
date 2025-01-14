@@ -17,3 +17,4 @@
 - [Vim Test](https://github.com/vim-test/vim-test) | Code tests integration
 - [Codeium](https://github.com/Exafunction/codeium.nvim) | AI Copilot
 - [Nvim Autopairs](https://github.com/windwp/nvim-autopairs) | Auto close brackets
+- [Lualine](https://github.com/nvim-lualine/lualine.nvim) | Status line for neovim
