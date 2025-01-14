@@ -14,3 +14,4 @@
 - [Swagger Preview](https://github.com/vinnymeller/swagger-preview.nvim) | Swagger Preview
 - [Telescope](https://github.com/nvim-telescope/telescope-ui-select.nvim) | File search and live grep
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) | Code highlights
+- [Vim Test](https://github.com/vim-test/vim-test) | Code tests integration
