@@ -9,3 +9,4 @@
 - [Fugitive](https://github.com/tpope/vim-fugitive) | Git integrations
 - [Mason](https://github.com/williamboman/mason.nvim) | Mason LSP
 - [Neo Tree](https://github.com/nvim-neo-tree/neo-tree.nvim) | File Explorer
+- [None LS](https://github.com/nvimtools/none-ls.nvim) | Code Actions
