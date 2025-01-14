@@ -8,3 +8,4 @@
 - [LSP](https://github.com/hrsh7th/cmp-nvim-lsp) | Language Server Protocol
 - [Fugitive](https://github.com/tpope/vim-fugitive) | Git integrations
 - [Mason](https://github.com/williamboman/mason.nvim) | Mason LSP
+- [Neo Tree](https://github.com/nvim-neo-tree/neo-tree.nvim) | File Explorer
